@@ -1,0 +1,12 @@
+:root {
+    --bg-color: #1b191c;
+    --header-bg: #eeeeee;
+    --text-color-header: #000000;
+    --text-color-main: #eeeeee;
+    --text-color-disable: #cfd3d6;
+    --text-color-input-mask: #a4a3a4;
+    --text-color-error-message: #c6a827;
+    --button-color: #f8d231;
+    --button-hover-color: #e8c330;
+    --ff: 'Space Grotesk', sans-serif;
+}
